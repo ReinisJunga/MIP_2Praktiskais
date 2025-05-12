@@ -1,4 +1,4 @@
-Komandas numurs: 29
+Komandas numurs: 29 \r\n
 Darba izpildītāji: 
 Mārtiņš Baškevics 231RDB193
 Reinis Junga 231RDB211
